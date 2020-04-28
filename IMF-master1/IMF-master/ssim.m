@@ -1,6 +1,7 @@
 function [mssim, ssim_map] = ssim(img1, img2, K, window, L)
 
 
+sherry
 
 %========================================================================
 %SSIM Index, Version 1.0
